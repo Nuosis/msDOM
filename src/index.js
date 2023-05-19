@@ -51,9 +51,9 @@ window.loadSlider = function (json) {
 
 };
 
-    data.forEach(function(question){
-        const slider = createSlider(question);
-    })
+data.forEach(function(question){
+    const slider = createSlider(question);
+})
 
     
   
